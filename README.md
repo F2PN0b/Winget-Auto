@@ -1,2 +1,2 @@
 # Winget-Auto
-Winget but automated, WIP.
+Winget but automated, basic funcunality achiched, maybe.
