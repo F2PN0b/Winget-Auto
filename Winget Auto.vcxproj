@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClCompile Include="Winget Auto.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="x64\Release\Winget Auto.exe" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
