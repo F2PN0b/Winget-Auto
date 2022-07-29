@@ -26,7 +26,7 @@ int main()
             system("pause");
             break;
         case 2:
-            system("winget upgrade --all");
+            system("winget upgrade --all -h"); // add -h 
             break;
         case 1:
             system("cls");
