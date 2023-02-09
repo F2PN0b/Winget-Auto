@@ -44,7 +44,7 @@ int main()
               
             case 0:
                 close = 0;
-                cout << "Have nice day!";
+                cout << "Have a nice day!"; // added the "a" w0w
                 break;
         }
     }
